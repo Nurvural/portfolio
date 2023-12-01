@@ -1,0 +1,38 @@
+.navbar-brand {
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
+.navbar-brand:hover {
+    color: inherit;
+}
+
+.nav-link:hover {
+    color: inherit;
+    background-color: rgb(252, 137, 137);
+}
+
+.jumbotron {
+    background-image: url('img/img2.jpg');
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 40px 0;
+    padding: 2rem 1rem;
+    border-radius: 0.5rem;
+}
+
+h1 {
+    background-image: linear-gradient(to right, #9aa9ff, rgb(100, 93, 161));
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+p {
+    font-weight: bold;
+    font-size: medium;
+    margin-left: 17px;
+}
